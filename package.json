@@ -1,0 +1,13 @@
+{
+  "name": "pdf-editor-for-mac",
+  "version": "1.0.0",
+  "description": "Free PDF editor that works on Mac, Windows, and Linux. Edit PDF documents directly in your browser — no download needed.",
+  "homepage": "https://pdf-editor-for-mac.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/pdf-editor-for-mac"
+  },
+  "keywords": ["pdf-editor","pdf-editor-mac","edit-pdf","free-pdf-editor","pdf-editor-online"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
